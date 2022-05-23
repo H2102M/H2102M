@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @H2102M and I'm boy.
-- 👀 I’m interested in Full-stack developer, Android Java...
-- 🌱 I’m currently learning Android Dev Java
-- 📫 I know JavaScripts best. Also I used C# .NET, PHP, React(little bit) and React Native, Python and IDK(forget)
+- 👋 Hi, I’m @H2102M.
+- 👀 I’m interested in Full-stack development, Android, CPP...
+- 🌱 I’m currently learning nothing 😄
+- 📫 I program most C++, Python and JavaScript.
 
 <!---
 H2102M/H2102M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
