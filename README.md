@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @H2102M.
-- 👀 I’m interested in Full-stack development, Android, CPP...
-- 🌱 I’m currently learning nothing 😄
-- 📫 I program most C++, Python and JavaScript.
+- 👀 I’m interested in many things...
 
 <!---
 H2102M/H2102M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
